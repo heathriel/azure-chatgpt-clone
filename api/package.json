@@ -34,7 +34,7 @@
     "keyv-file": "^0.2.0",
     "lodash": "^4.17.21",
     "meilisearch": "^0.31.1",
-    "mongoose": "^6.9.0",
+    "mongoose": "^6.13.5",
     "openai": "^3.1.0",
     "sanitize": "^2.1.2",
     "fetch-undici": "^3.0.1",
