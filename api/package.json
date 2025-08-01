@@ -37,7 +37,7 @@
     "mongoose": "^6.9.0",
     "openai": "^3.1.0",
     "sanitize": "^2.1.2",
-    "fetch-undici": "^3.0.1",
+    "fetch-undici": "^5.0.0",
     "passport": "^0.6.0",
     "passport-azure-ad": "^4.3.4",
     "body-parser": "^1.20.2"
