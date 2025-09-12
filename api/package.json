@@ -35,7 +35,7 @@
     "lodash": "^4.17.21",
     "meilisearch": "^0.31.1",
     "mongoose": "^6.9.0",
-    "openai": "^3.1.0",
+    "openai": "^4.0.0",
     "sanitize": "^2.1.2",
     "fetch-undici": "^3.0.1",
     "passport": "^0.6.0",
