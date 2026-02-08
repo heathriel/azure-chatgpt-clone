@@ -27,7 +27,7 @@ ENV HOST=0.0.0.0
 CMD ["npm", "start"]
 
 # Optional: for client with nginx routing
-FROM nginx:stable-alpine AS nginx-client
+FROM nginx:1.29.5-alpine3.23 AS nginx-client
 WORKDIR /usr/share/nginx/html
 COPY --from=react-client /client/public /usr/share/nginx/html
 # Add your nginx.conf
